@@ -1,4 +1,4 @@
-Calculadora de Combustível
+## Calculadora de Combustível
 
 Este é um projeto pessoal nascido da necessidade real de colocar os gastos do carro na ponta do lápis. Seja para planejar aquela viagem de fim de semana ou apenas para descobrir qual bomba de combustível vai doer menos no bolso no fim do mês, este aplicativo resolve a matemática de forma rápida e visual.
 
@@ -39,4 +39,4 @@ Para testar a calculadora, você só precisa ter o Python instalado no seu compu
 **1. Clone este repositório:**
 Abra o seu terminal e digite:
 ```bash
-git clone [https://github.com/SEU_USUARIO/calculadora-combustivel.git](https://github.com/SEU_USUARIO/calculadora-combustivel.git)
+git clone https://github.com/marcosalutke/Calculadora-de-combust-vel
