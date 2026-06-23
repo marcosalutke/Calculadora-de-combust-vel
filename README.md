@@ -31,6 +31,7 @@ Chegou no posto e ficou na dúvida?
 A versão atual foi construída de forma enxuta para rodar diretamente no desktop:
 * **Python 3:** Lógica de negócio e cálculos matemáticos.
 * **Tkinter (ttk):** Construção da Interface Gráfica de Usuário (GUI) nativa e responsiva, sem necessidade de bibliotecas externas pesadas.
+* **LLMs (Claude / ChatGPT / Gemini):**  Utilizados como assistentes de código para geração de boilerplate, refatoração e clean code.
 
 ---
 
