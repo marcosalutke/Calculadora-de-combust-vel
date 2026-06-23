@@ -1,0 +1,2 @@
+# Este projeto utiliza apenas a biblioteca nativa Tkinter (Python Standard Library).
+# Nenhuma dependência externa adicional é necessária para rodar o MVP.
