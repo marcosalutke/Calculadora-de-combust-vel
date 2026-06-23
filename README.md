@@ -4,6 +4,8 @@ Este é um projeto pessoal nascido da necessidade real de colocar os gastos do c
 
 Desenvolvido com foco na simplicidade, este é o MVP (Produto Mínimo Viável) de uma ferramenta de utilidade diária para motoristas.
 
+![AI Assisted](https://img.shields.io/badge/AI_Assisted-Pair_Programming-blue?style=flat-square)
+
 ---
 
 ## ✨ Funcionalidades
