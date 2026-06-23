@@ -44,9 +44,13 @@ Abra o seu terminal e digite:
 ```bash
 git clone https://github.com/marcosalutke/Calculadora-de-combust-vel
 ```
-**2.Acesse a pasta do projeto:**
+**2. Acesse a pasta do projeto:**
 ```bash
 cd Calculadora-de-combust-vel
+```
+**2.5. Instale as dependências:**
+```bash
+pip install -r requirements.txt
 ```
 **3. Execute o aplicativo:**
 ```bash
