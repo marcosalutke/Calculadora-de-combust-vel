@@ -18,11 +18,16 @@ Planeje sua rota antes de tirar o carro da garagem:
 * **Flexibilidade de Consumo:** Suporta tanto o padrão brasileiro (`km/ℓ`) quanto o padrão internacional (`ℓ / 100 km`).
 * **Visão de Custos:** Entrega mastigado o total de litros necessários, o custo exato por quilômetro rodado e o impacto total no bolso.
 
-### 2. Etanol x Gasolina (O Tira-Teima) ⛽
+<img width="413" height="540" alt="Image" src="https://github.com/user-attachments/assets/77cdf514-0c16-475e-9972-3fc1d973c5b9" />
+
+
+### 2. Etanol x Gasolina ⛽
 Chegou no posto e ficou na dúvida? 
 * Insira o preço do Etanol e da Gasolina.
 * O sistema calcula a proporção exata entre os dois.
 * Retorna o veredito de qual combustível é a escolha financeira mais inteligente para o abastecimento no momento (baseado na regra padrão de eficiência de 70%).
+
+<img width="419" height="544" alt="Image" src="https://github.com/user-attachments/assets/4f413860-2f0f-4e10-bf55-bbaef4ba45dc" />
 
 ---
 
