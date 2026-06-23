@@ -43,3 +43,7 @@ Para testar a calculadora, você só precisa ter o Python instalado no seu compu
 Abra o seu terminal e digite:
 ```bash
 git clone https://github.com/marcosalutke/Calculadora-de-combust-vel
+
+**2. Acesse a pasta do projeto:**
+```bash
+cd Calculadora-de-combust-vel
